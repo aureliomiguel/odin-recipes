@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin recipes
 
 Repository containing the first exercise of the foundational course of the Odin Project.
 
